@@ -28,6 +28,7 @@ print("Number of words={}".format(num_words))
 ~~~
 ### OUTPUT:
 ![gitlog](ss1.png)
+
 ![gitlog](ss2.png)
 
 
